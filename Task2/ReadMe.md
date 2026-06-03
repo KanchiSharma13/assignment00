@@ -2,7 +2,7 @@
 
 ## Overview
 
-This task focuses on classifying sign language gestures using a YOLO-based image classification model- YOLO26n. The objective is to accurately recognize hand signs from images while maintaining robustness to variations in lighting, orientation, and image quality. 
+This task focuses on classifying 36(0-9 & a-z) ASL gestures using a YOLO-based image classification model, YOLO26n. The objective is to accurately recognize hand signs from images while maintaining robustness to variations in lighting, orientation, and image quality. 
 
 
 ##Why YOLO26?<br>
